@@ -1,0 +1,44 @@
+{
+
+  "elements": [
+
+    {
+
+      "id": 1,"title": "Mandar_rao_desai","author": "Bati_Bhaiya","year_published": 2018,
+"rating": 4.03},
+
+    {
+
+      "id": 2,
+
+      "title": "Subrata_paul",
+
+      "author": "Bati_Bhaiya",
+
+      "year_published": 1889,
+
+      "rating": 4.2
+
+    },
+
+    {"id": 3,"title": "thegoalstory","author": "moi",
+"year_published": 2018,"rating": 5
+}
+  ],
+
+  "comments": [{
+"id": 1,
+"body": "some comment",
+"postId": 1
+}
+],
+
+  "profile": [{
+"name": "moi"}
+],
+  
+  "subscribe": {
+"id": "1"
+}
+
+}
